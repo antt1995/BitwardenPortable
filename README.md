@@ -1,3 +1,7 @@
+Moved to Gitlab
+
+https://gitlab.com/antt1995/BitwardenPortable
+
 <p align="center">
 	<img src="./BitwardenPortable/App/AppInfo/appicon.png" alt="Bitwarden logo" width="200" />
 </p>
